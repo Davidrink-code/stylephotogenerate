@@ -1,0 +1,5 @@
+{
+  "name": "RetroLens AI",
+  "description": "使用 Gemini AI 将您的照片转换为复古诺基亚像素艺术或粗糙的黑白 CCD 风格。支持上传、风格化、调整尺寸和保存。",
+  "requestFramePermissions": []
+}
